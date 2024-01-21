@@ -2,6 +2,19 @@ Aplikasi sistem pakar yang akan bagikan di sini adalah berbasis web untuk mendia
 ## PERHATIAN
 Aplikasi sistem pakar ini dibagikan secara gratis yang ditujukan untuk para pelajar / mahasiswa untuk memenuhi tugas mereka. Pengguna diperbolehkan memodifikasi ulang seluruh isi program, namun tidak diperbolehkan untuk memperjualbelikan program asli yang saya bagikan.
 ## Demo Aplikasi
+<div align="center">
+  
 ![Beranda Pakar](https://i.ibb.co/JW1S08x/Beranda-Pakar.png)
+<br/>
+Demo Beranda Pakar
+<br/>
+<br/>
 ![Beranda User](https://i.ibb.co/RD5tCG5/Beranda-User.png)
+<br/>
+Demo Beranda User
+<br/>
+<br/>
 ![Hasil Diagnosa](https://i.ibb.co/8mr8s1q/Hasil-Diagnosa.png)
+<br/>
+Demo Hasil Diagnosa
+</div>
