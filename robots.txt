@@ -1,0 +1,15 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+
+# DO NOT EDITE OR REMOVE THIS LINE START
+Disallow: /admin/*
+Disallow: /assets/*
+Disallow: /cache/*
+Disallow: /includes/*
+Disallow: /license/*
+Disallow: /*?*
+# DO NOT EDITE OR REMOVE THIS LINE END
+
+Allow: /
